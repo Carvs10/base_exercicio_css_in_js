@@ -1,5 +1,4 @@
-import { Cabecalho as Head } from './styles'
-
+import { Head } from './styles'
 const Cabecalho = () => (
   <Head>
     <h1>EBAC Jobs</h1>
